@@ -14,7 +14,7 @@ class Program
             Console.WriteLine("4. Пiдрахунок кiлькостi додатних елементiв у кожному рядку масиву");
             Console.WriteLine("5. Вихiд");
 
-            Console.WriteLine("Оберiть завдання (або введiть '5' для виходу):");
+            Console.Write("Оберiть завдання (або введiть '5' для виходу):  ");
             string choice = Console.ReadLine();
 
             Console.Clear();
